@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="Aussie-round.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.94608586"
+     inkscape:cx="218.79621"
+     inkscape:cy="197.65648"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#e00034;fill-opacity:1;stroke-width:0.250392"
+       id="path1"
+       cx="50"
+       cy="-50"
+       r="50"
+       transform="scale(1,-1)" />
+    <path
+       id="Comwlth"
+       d="M 50.000002,9.4165 57.826019,33.749169 81.729511,24.696628 67.584914,45.986427 89.566054,59.030762 64.102009,61.246046 67.608551,86.564603 50.000002,68.03721 32.391451,86.564603 35.897994,61.246046 10.433946,59.030762 32.415084,45.986427 18.270487,24.696628 42.17398,33.749169 Z"
+       style="fill:#ffffff;stroke-width:0.112733" />
+  </g>
+</svg>
