@@ -8,7 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="Aussie-round.svg"
+   sodipodi:docname="Aussie.svg"
+   inkscape:export-filename="Aussie-400.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +27,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="0.94608586"
-     inkscape:cx="218.79621"
-     inkscape:cy="197.65648"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="194.48552"
+     inkscape:cy="141.63619"
+     inkscape:window-width="1382"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
@@ -38,16 +41,69 @@
      inkscape:label="圖層 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#e00034;fill-opacity:1;stroke-width:0.250392"
-       id="path1"
-       cx="50"
-       cy="-50"
-       r="50"
-       transform="scale(1,-1)" />
-    <path
-       id="Comwlth"
-       d="M 50.000002,9.4165 57.826019,33.749169 81.729511,24.696628 67.584914,45.986427 89.566054,59.030762 64.102009,61.246046 67.608551,86.564603 50.000002,68.03721 32.391451,86.564603 35.897994,61.246046 10.433946,59.030762 32.415084,45.986427 18.270487,24.696628 42.17398,33.749169 Z"
-       style="fill:#ffffff;stroke-width:0.112733" />
+    <rect
+       style="fill:#c8102e;fill-opacity:1;stroke-width:1;stroke-dasharray:none"
+       id="rect1"
+       width="100"
+       height="100"
+       x="0"
+       y="0"
+       ry="20"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e50027;fill-opacity:1;stroke-width:0.250392"
+       x="50"
+       y="90.243355"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:26.6667px;fill:#ffffff;stroke-width:0.250394"
+         x="50"
+         y="90.243355">♣</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
+       x="26.29343"
+       y="55.666706"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:26.6667px;stroke-width:0.250394"
+         x="26.29343"
+         y="55.666706">♦</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
+       x="50"
+       y="27.437239"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:24px;stroke-width:0.250394"
+         x="50"
+         y="27.437239">♥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
+       x="74.437233"
+       y="46.218639"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:21.3333px;stroke-width:0.250394"
+         x="74.437233"
+         y="46.218639">♠</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
+       x="60.813328"
+       y="58.134258"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:13.3333px;stroke-width:0.250394"
+         x="60.813328"
+         y="58.134258">♣</tspan></text>
   </g>
 </svg>
