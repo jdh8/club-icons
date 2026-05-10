@@ -27,13 +27,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="0.94608586"
-     inkscape:cx="194.48552"
+     inkscape:cx="106.75564"
      inkscape:cy="141.63619"
-     inkscape:window-width="1382"
-     inkscape:window-height="991"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
@@ -65,13 +65,13 @@
        xml:space="preserve"
        style="font-size:26.6667px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
        x="26.29343"
-       y="55.666706"
+       y="55.166706"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="font-size:26.6667px;stroke-width:0.250394"
          x="26.29343"
-         y="55.666706">♦</tspan></text>
+         y="55.166706">♦</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
@@ -87,23 +87,23 @@
        xml:space="preserve"
        style="font-size:21.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
        x="74.437233"
-       y="46.218639"
+       y="49.718639"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-size:21.3333px;stroke-width:0.250394"
          x="74.437233"
-         y="46.218639">♠</tspan></text>
+         y="49.718639">♠</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
        x="60.813328"
-       y="58.134258"
+       y="61.634258"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-size:13.3333px;stroke-width:0.250394"
          x="60.813328"
-         y="58.134258">♣</tspan></text>
+         y="61.634258">♣</tspan></text>
   </g>
 </svg>
