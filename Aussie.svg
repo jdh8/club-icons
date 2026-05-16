@@ -27,10 +27,10 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="0.94608586"
-     inkscape:cx="106.75564"
-     inkscape:cy="141.63619"
+     inkscape:cx="112.04057"
+     inkscape:cy="227.2521"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,23 +87,30 @@
        xml:space="preserve"
        style="font-size:21.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
        x="74.437233"
-       y="49.718639"
+       y="48.718639"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-size:21.3333px;stroke-width:0.250394"
          x="74.437233"
-         y="49.718639">♠</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;line-height:0.9;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.250392"
-       x="60.813328"
-       y="61.634258"
-       id="text5"><tspan
-         sodipodi:role="line"
-         id="tspan5"
-         style="font-size:13.3333px;stroke-width:0.250394"
-         x="60.813328"
-         y="61.634258">♣</tspan></text>
+         y="48.718639">♠</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="85.880157"
+       sodipodi:cy="76.895767"
+       sodipodi:r1="2.6402752"
+       sodipodi:r2="6.9117155"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.94247783"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 85.880158,74.255492 4.062604,-2.95142 -1.551554,4.775805 4.062382,2.951728 -5.021518,1.9e-4 -1.551914,4.775688 -1.551915,-4.775688 -5.021518,-1.9e-4 4.062382,-2.951728 -1.551554,-4.775805 z"
+       inkscape:transform-center-x="0.35897285"
+       inkscape:transform-center-y="-0.13569828"
+       transform="matrix(1,0,0,-1,-23.556725,134.55748)" />
   </g>
 </svg>
